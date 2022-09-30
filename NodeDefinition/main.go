@@ -1,11 +1,13 @@
 package main
 
+import "fmt"
+
 type Node struct {
 	elemet interface{}
-	next *Node
+	next   *Node
 }
 
-
 func main() {
+	fmt.Println("haha")
 
 }
