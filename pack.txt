@@ -1,0 +1,2 @@
+go get github.com/appleboy/gin-jwt/v2
+go get github.com/appleboy/gin-jwt
